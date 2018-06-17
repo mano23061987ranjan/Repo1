@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CE05-295F
+
+ Directory of C:\MyGit
+
+06/16/2018  08:38 PM    <DIR>          .
+06/16/2018  08:38 PM    <DIR>          ..
+06/16/2018  08:38 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  18,865,889,280 bytes free
